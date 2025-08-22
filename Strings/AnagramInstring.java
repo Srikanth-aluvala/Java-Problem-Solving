@@ -1,5 +1,5 @@
 
-// write a program fo Anagram is or not
+// To Check a String is Anagram or not
 
 import java.util.Arrays;
 class AnagramInstring
@@ -21,4 +21,5 @@ class AnagramInstring
 		   System.out.println("is not anagram"); 
 		}
 	}
+
 }
